@@ -1,4 +1,4 @@
-<code_scheme name="Sublime Text">
+<code_scheme name="Sublime Text" version="173">
   <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
@@ -8,7 +8,11 @@
   <CssCodeStyleSettings>
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
   </CssCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
@@ -29,6 +33,8 @@
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
