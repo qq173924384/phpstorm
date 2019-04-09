@@ -22,6 +22,7 @@
     <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_KEEP_BLANK_LINES" value="false" />
+    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
