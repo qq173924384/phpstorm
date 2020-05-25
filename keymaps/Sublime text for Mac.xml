@@ -1,1 +1,12 @@
-<keymap version="1" name="Sublime text for Mac" parent="Mac OS X 10.5+" />
+<keymap version="1" name="Sublime text for Mac" parent="Mac OS X 10.5+">
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
+</keymap>
